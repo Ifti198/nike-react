@@ -1,0 +1,21 @@
+/* UTILITIES */
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+
+}
+:root{
+    --primary-color: rgb(58, 74, 219);
+}
+
+/* HEADER */
+header{
+    background-color: #FFF9F4;
+}
+/* TOP BANNER */
+.bg-button{
+    background-color: var(--primary-color);
+}
